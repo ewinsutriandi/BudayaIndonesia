@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budaya Indonesia</string>
+    <string name="title_tariandaerah_list">tariTarian</string>
+    <string name="title_tariandaerah_detail">TarianDaerah Detail</string>
+</resources>
